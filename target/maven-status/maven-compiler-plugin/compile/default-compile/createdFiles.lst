@@ -1,0 +1,12 @@
+com\nagarro\librarymanagement\repository\AuthorsRepository.class
+com\nagarro\librarymanagement\controller\BooksController.class
+com\nagarro\librarymanagement\servicesinterface\IAuthorsServices.class
+com\nagarro\librarymanagement\services\BooksServices.class
+com\nagarro\librarymanagement\controller\AuthorsController.class
+com\nagarro\librarymanagement\servicesinterface\IBooksServices.class
+com\nagarro\librarymanagement\services\AuthorsServices.class
+com\nagarro\librarymanagement\repository\BooksRepository.class
+com\nagarro\librarymanagement\LibraryManagementBackendApplication.class
+com\nagarro\librarymanagement\ServletInitializer.class
+com\nagarro\librarymanagement\entity\Books.class
+com\nagarro\librarymanagement\entity\Authors.class
